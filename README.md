@@ -5,7 +5,7 @@ This QA Generator is an application that automatically generates question-answer
 
 ## Features
 
-- Select PDF files and extraxt the text
+- Select PDF files
 - Specify the output folder to save generated QA pairs
 - Choose the number of questions to generate for each handout
 - View generated files and prepare them for fine-tuning
