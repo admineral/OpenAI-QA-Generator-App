@@ -28,7 +28,7 @@ pip install -r requirements.txt
 1. Run the application:
 
 ```bash
-python handout_qa_generator.py
+python QA-Generator-GUI.py
 ```
 
 2. Browse and select PDF files for handouts.
