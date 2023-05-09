@@ -2,6 +2,8 @@
 
 This QA Generator is an application that automatically generates question-answer pairs for PDF handouts using OpenAI's GPT-3.5. These Q&A pairs can be used to enhance comprehension and fine-tune AI language models.
 
+<img src="images/Generator.png" alt="QA-Generator" width="600px">
+
 
 ## Features
 
