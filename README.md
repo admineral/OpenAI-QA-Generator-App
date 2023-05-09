@@ -1,9 +1,9 @@
 # OpenAI-QA-Generator-App
 
-An intuitive and user-friendly GUI application for generating high-quality question-answer pairs from PDF´s
+An intuitive and user-friendly GUI application for generating high-quality question-answer pairs from PDF´s.
 
 
-This QA Generator is an application that automatically generates question-answer pairs for PDF handouts using OpenAI's GPT-4. These Q&A pairs can be used to enhance comprehension and fine-tune AI language models.
+This QA Generator is an application that automatically generates question-answer pairs for PDF handouts using OpenAI's GPT-3.5. These Q&A pairs can be used to enhance comprehension and fine-tune AI language models.
 
 ## Features
 
